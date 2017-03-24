@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="TextoTitulo">Color Picker</string>
+    <string name="txtOn">Color</string>
+    <string name="txtOff">Escala Grises</string>
+    <string name="hexCode">000000</string>
+    <string name="colorElegido">Color elegido</string>
+</resources>

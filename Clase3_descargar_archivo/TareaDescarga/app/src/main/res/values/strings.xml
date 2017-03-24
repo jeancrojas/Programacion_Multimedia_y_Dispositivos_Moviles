@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaDescarga</string>
+    <string name="fichero">https://si.ua.es/en/documentos/documentacion/pdf-s/mozilla12-pdf.pdf</string>
+    <string name="txtBoton">Descargar</string>
+</resources>
